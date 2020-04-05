@@ -1,0 +1,9 @@
+pytest
+pylint
+pycodestyle
+sphinx
+numpy
+#itk
+#astra-toolbox
+quantities
+#h5py
